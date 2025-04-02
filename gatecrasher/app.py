@@ -1,0 +1,6 @@
+def start():
+    ...
+
+
+if __name__ == 'main':
+    ...
